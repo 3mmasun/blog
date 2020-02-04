@@ -1,9 +1,8 @@
 title: Emma Sun – Software Engineer
 logo: # you can add own logo.
-description: Passionate designer curating designs for new startups  and  founders  and crafts  beautiful user interfaces with love.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+description: a place for me to pen down my thoughts
 url: 3mmasun.github.io
-baseurl: /3mmasun
+baseurl: /blog
 
 # Author Settings
 author:
