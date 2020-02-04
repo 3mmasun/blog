@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Machine Learning"
-date: 2018-05-29 18:05:55 +0300
+date: 2020-02-03 16:00:00 +0300
 image: "/assets/img/machine.jpg"
 tags: machine-learning data-science
 ---
